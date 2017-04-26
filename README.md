@@ -1,4 +1,7 @@
-# api documentation for  [oauth20-provider (v0.6.0)](https://github.com/t1msh/node-oauth20-provider)  [![npm package](https://img.shields.io/npm/v/npmdoc-oauth20-provider.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oauth20-provider) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oauth20-provider.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oauth20-provider)
+# npmdoc-oauth20-provider
+
+#### basic api documentation for  [oauth20-provider (v0.6.0)](https://github.com/t1msh/node-oauth20-provider)  [![npm package](https://img.shields.io/npm/v/npmdoc-oauth20-provider.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oauth20-provider) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oauth20-provider.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oauth20-provider)
+
 #### OAuth 2.0 provider toolkit for nodeJS
 
 [![NPM](https://nodei.co/npm/oauth20-provider.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/oauth20-provider)
@@ -80,7 +83,8 @@
     "scripts": {
         "test": "mocha --reporter spec"
     },
-    "version": "0.6.0"
+    "version": "0.6.0",
+    "bin": {}
 }
 ```
 
